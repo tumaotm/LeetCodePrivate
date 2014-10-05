@@ -1,0 +1,24 @@
+﻿生成启动时间为 2014/9/25 16:35:15。
+     1>项目“D:\Dropbox\我的文档\ACM\Leetcode\Reverse Polish Notation\Reverse Polish Notation\Reverse Polish Notation.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Reverse Polish Notation.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MaxPointsLine.cpp "Reverse Polish Notation.cpp" tsest.cpp
+         tsest.cpp
+         Reverse Polish Notation.cpp
+         MaxPointsLine.cpp
+     1>d:\dropbox\我的文档\acm\leetcode\reverse polish notation\reverse polish notation\maxpointsline.cpp(87): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\dropbox\我的文档\acm\leetcode\reverse polish notation\reverse polish notation\maxpointsline.cpp(92): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\dropbox\我的文档\acm\leetcode\reverse polish notation\reverse polish notation\maxpointsline.cpp(108): error C2143: 语法错误 : 缺少“,”(在“:”的前面)
+     1>d:\dropbox\我的文档\acm\leetcode\reverse polish notation\reverse polish notation\maxpointsline.cpp(108): error C3531: “iter”: 类型包含“auto”的符号必须具有初始值设定项
+     1>d:\dropbox\我的文档\acm\leetcode\reverse polish notation\reverse polish notation\maxpointsline.cpp(109): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>d:\dropbox\我的文档\acm\leetcode\reverse polish notation\reverse polish notation\maxpointsline.cpp(110): error C2228: “.second”的左边必须有类/结构/联合
+                 类型是“int”
+     1>d:\dropbox\我的文档\acm\leetcode\reverse polish notation\reverse polish notation\maxpointsline.cpp(112): error C2228: “.second”的左边必须有类/结构/联合
+                 类型是“int”
+         正在生成代码...
+     1>已完成生成项目“D:\Dropbox\我的文档\ACM\Leetcode\Reverse Polish Notation\Reverse Polish Notation\Reverse Polish Notation.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:10.16
